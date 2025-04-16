@@ -19,9 +19,12 @@
            <td rowspan=6>
            
 ## Abstract
-🎓 I'm a Final Year CSE Student with a passion for innovation, creativity, and building intelligent systems.  
+🎓 I'm a Final Year CSE Student with a passion for innovation, creativity, and building intelligent systems. 
+
 💻 I specialize in Full Stack Development and Generative AI projects.  
+
 ⚙️ I've worked on Autobot(content generator), AI-powered resume analyzers, vehicle configurators, educational platforms & more.  
+
 🌐 Skilled in Python, Next.js, AWS & Replicate AI, huggingface etc.
 
 📬 Reach me at: rajworkin.1@gmail.com 
