@@ -50,10 +50,6 @@ const RajGupta = {
 };
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajgupta-dev&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajgupta-dev&theme=radical" width="48%">
-</p>
 
 <div align="center" width="50">
 <img src="https://media.giphy.com/media/jsYg6y4B2PqJW/giphy.gif" width="70%" />
