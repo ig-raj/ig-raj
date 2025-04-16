@@ -23,7 +23,7 @@
 ⚙️ I've worked on Autobot(content generator), AI-powered resume analyzers, vehicle configurators, educational platforms & more.  
 🌐 Skilled in Python, Next.js, AWS & Replicate AI, huggingface etc.
 
-📬 Reach me at: rajgupta.dev@gmail.com  
+📬 Reach me at: rajworkin.1@gmail.com 
 🔗 Portfolio: [rajgupta.dev](https://portfolio-raj-s-projects-872d0cfd.vercel.app/)
 
           </td>
