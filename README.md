@@ -1,4 +1,5 @@
-
+### Hola Amigo! Kese Ho? Thik ho.
+[![An image of @khushig99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushig99)](https://holopin.io/@khushig99)
 <!-- ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
@@ -30,7 +31,7 @@
         </tr>
         <tr>
             <td width="38%"> 
-            <img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+            <img align="right" alt="Coding GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTl0MjZyZnE2Z2NneXJ3a2xlemR4ajF1cjllZHl2YmM4ZHU5cGQxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vavktvjcvLB1blh5HV/giphy.gif" width="250"/>
             </td>
         </tr>
     </tbody>
