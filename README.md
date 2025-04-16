@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/raj-gupta-50b158202/"><img align="right" src="https://img.icons8.com/fluency/30/null/linkedin.png" alt="linkedin"/></a>
 <a href="https://x.com/_raj_enough_"><img align="right" src="https://img.icons8.com/cute-clipart/30/null/twitter.png" alt="twitter"/></a> 
 
-## Hey 👋 I am Raj Gupta <img align="left" height="30" width="30"  src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/32/null/external-verified-instagram-flatart-icons-outline-flatarticons.png" alt="verified"/>
+## Hey 👋 I am Raj Gupta <img align="left" height="30" width="30"  src="https://img.icons8.com/external-anggara-flat-anggara-putra/32/null/external-verified-ui-basic-anggara-flat-anggara-putra.png" alt="verified"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajgupta-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" /> </p>
 
