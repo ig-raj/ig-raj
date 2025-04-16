@@ -3,7 +3,6 @@
 <!-- ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-[![MasterHead]](https://portfolio-raj-s-projects-872d0cfd.vercel.app/)
 
 <div style="text-align: right"></div>
 <a href="https://www.linkedin.com/in/raj-gupta-50b158202/"><img align="right" src="https://img.icons8.com/fluency/30/null/linkedin.png" alt="linkedin"/></a>
