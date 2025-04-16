@@ -17,8 +17,7 @@
     <tbody border="0" cellspacing="0" cellpadding="0">
         <tr  style="width:70%">
            <td rowspan=6>
-
-## Abstract
+           ## Abstract
 🎓 I'm a Final Year CSE Student with a passion for innovation, creativity, and building intelligent systems.  
 💻 I specialize in Full Stack Development and Generative AI projects.  
 ⚙️ I've worked on Autobot(content generator), AI-powered resume analyzers, vehicle configurators, educational platforms & more.  
@@ -27,7 +26,7 @@
 📬 Reach me at: rajworkin.1@gmail.com 
 🔗 Portfolio: [rajgupta.dev](https://portfolio-raj-s-projects-872d0cfd.vercel.app/)
 
-          </td>
+</td>
         </tr>
         <tr>
             <td width="38%"> 
