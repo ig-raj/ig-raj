@@ -66,6 +66,6 @@ const RajGupta = {
 </p>
 
 <img src="https://readme-jokes.vercel.app/api?hideBorder=false&theme=radical" alt="Random Dev Joke" width="100%" />
-
+[![trophy](https://github-profile-trophy.vercel.app/ig-raj)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
